@@ -1,0 +1,7 @@
+{
+  "allow": ["127.0.0.1", "localhost", "::1"],
+  "cred_allow": [],
+  "admin_override": [],
+  "active_target": "",
+  "notes": "Loopback-only example for the excerpt. Source: Grantgazvoda-alt/eve-achilles scope.json (no preselected scan target). Excerpt, not runnable."
+}

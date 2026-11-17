@@ -1,0 +1,26 @@
+# Excerpt, not runnable.
+# Source: Grantgazvoda-alt/eve-achilles — toolchain.lock.json
+# Staged locally only; not published.
+
+{
+  "schema_version": 1,
+  "description": "Pinned external scanner toolchain for authorized Eve Achilles assessments. Version pins only; install URLs and digest material omitted from this excerpt.",
+  "tools": {
+    "nmap": { "version": "7.992" },
+    "masscan": { "version": "1.3.2" },
+    "httpx": { "version": "1.12.0" },
+    "gobuster": { "version": "3.8.2" },
+    "ffuf": { "version": "2.3.0" },
+    "sqlmap": { "version": "1.10" },
+    "nuclei": { "version": "3.11.1" },
+    "subfinder": { "version": "2.17.0" },
+    "amass": { "version": "5.1.3" },
+    "dnsrecon": { "version": "1.6.3" },
+    "nikto": { "version": "2.6.0" },
+    "dirsearch": { "version": "0.5.0" },
+    "sslscan": { "version": "2.2.0" },
+    "whatweb": { "version": "0.6.4" },
+    "xsstrike": { "version": "3.1.6" },
+    "dig": { "version": "9.20.30" }
+  }
+}
